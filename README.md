@@ -15,4 +15,5 @@ A C++17 implementation of LZ78 compression and decompression, with configurable 
 
 ## Contact
 
-manojchowdary.dev@gmail.com
+[Gmail]manojchowdary.dev@gmail.com
+[LinkedIn](https://www.linkedin.com/in/manoj-chowdary-bb0052340/)
