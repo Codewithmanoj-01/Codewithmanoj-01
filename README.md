@@ -13,7 +13,10 @@ Student at Marwadi University, practicing DSA in C++ and exploring embedded syst
 
 A C++17 implementation of LZ78 compression and decompression, with configurable dictionary limits, verification, and performance visualizations.
 
-## Contact
+## Connect
 
-manojchowdary.dev@gmail.com /n
-[LinkedIn](https://www.linkedin.com/in/manoj-chowdary-bb0052340/)
+[Email](mailto:manojchowdary.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/manoj-chowdary-bb0052340/)
+
+## Coding Profiles
+
+[LeetCode](https://leetcode.com/u/MANOJCHOWDARY-DEV/) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/manojchow4flu/)
