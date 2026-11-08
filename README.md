@@ -1,4 +1,4 @@
-# Manoj Chowdary
+# OLETI MANOJ KUMAR
 
 Student at Marwadi University, practicing DSA in C++ and exploring embedded systems.
 
